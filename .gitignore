@@ -37,3 +37,4 @@ venv
 *.tar.gz
 *.tgz
 *.egg-info
+config.bat
