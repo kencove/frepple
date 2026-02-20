@@ -45,3 +45,4 @@ venv
 *.egg-info
 /freppledb/forecast/frontend/node_modules
 /freppledb/common/frontend/node_modules
+config.bat
